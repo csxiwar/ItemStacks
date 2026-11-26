@@ -1,4 +1,5 @@
 # ItemStacks
+<img src="https://github.com/csxiwar/ItemStacks/blob/main/ItemIcon.png?raw=true" width="128" height="128" align="left" style="margin-right: 15px;" />
 Only one version has been tested: paper 1.21.11; in the future, we will check all the files and fix certain errors.
 
 A powerful and lightweight Minecraft plugin designed to give server administrators complete control over item stack sizes. Break the vanilla limits and customize the maximum stack size for any item in the game, from 1 to 99.
@@ -47,6 +48,7 @@ All commands require Operator (OP) status by default.
 /itemstack item additem minecraft.tnt 99
 /itemstack item additem diamond 32
 /itemstack item delitem minecraft.tnt
+```
 
 ### Files
 
