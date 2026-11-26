@@ -1,0 +1,21 @@
+{
+  "no-permission": "You do not have permission.",
+  "reloaded": "ItemStacks reloaded.",
+  "unknown-args": "Unknown arguments, please read /itemstack help",
+  "help-header": "§6ItemStacks Help",
+  "help-reload": "/itemstack reload - reload plugin",
+  "help-additem": "/itemstack item additem {item} {count} - add item",
+  "help-delitem": "/itemstack item delitem {item} - remove item",
+  "help-status": "/itemstack item status {item} - check stack size",
+  "help-language": "/itemstack language {lang} - switch language",
+  "item-not-found": "Item not found: {item}",
+  "invalid-number": "Invalid number.",
+  "invalid-range": "Range must be 1-99.",
+  "save-failed": "Failed to save config.",
+  "item-added": "Added {item} = {count}",
+  "item-removed": "Removed {item}",
+  "item-status": "{item} = {count}",
+  "item-status-default": "{item} = default",
+  "language-not-found": "Language not found: {lang}",
+  "language-switched": "Language switched to {lang}"
+}

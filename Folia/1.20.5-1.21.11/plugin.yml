@@ -1,0 +1,5 @@
+name: ItemStacks
+version: 0.0
+main: ItemStacks
+api-version: '1.21'
+folia-supported: true

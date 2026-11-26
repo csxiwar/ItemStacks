@@ -1,0 +1,21 @@
+{
+  "no-permission": "У вас нет прав.",
+  "reloaded": "ItemStacks перезагружен.",
+  "unknown-args": "Неизвестные аргументы, прочитайте /itemstack help",
+  "help-header": "§6ItemStacks Помощь",
+  "help-reload": "/itemstack reload - перезагрузить плагин",
+  "help-additem": "/itemstack item additem {item} {count} - добавить предмет",
+  "help-delitem": "/itemstack item delitem {item} - удалить предмет",
+  "help-status": "/itemstack item status {item} - проверить размер стака",
+  "help-language": "/itemstack language {lang} - сменить язык",
+  "item-not-found": "Предмет не найден: {item}",
+  "invalid-number": "Неверное число.",
+  "invalid-range": "Диапазон должен быть 1-99.",
+  "save-failed": "Не удалось сохранить конфиг.",
+  "item-added": "Добавлено {item} = {count}",
+  "item-removed": "Удалён {item}",
+  "item-status": "{item} = {count}",
+  "item-status-default": "{item} = по умолчанию",
+  "language-not-found": "Язык не найден: {lang}",
+  "language-switched": "Язык переключён на {lang}"
+}
